@@ -106,13 +106,13 @@ namespace CommonTools
 
                 foreach (XmlElement mata_data in mata)
                 {
-                    if (mata_data.GetAttribute("android:name").Equals("UMENG_CHANNEL"))
+                    if (mata_data.GetAttribute("android:name").Equals("DC_CHANNEL"))
                     {
                         Channel = mata_data.GetAttribute("android:value");
                         continue;
                     }
 
-                    if (mata_data.GetAttribute("android:name").Equals("UMENG_APPKEY"))
+                    if (mata_data.GetAttribute("android:name").Equals("DC_APPID"))
                     {
                         Appkey = mata_data.GetAttribute("android:value");
                         continue;
