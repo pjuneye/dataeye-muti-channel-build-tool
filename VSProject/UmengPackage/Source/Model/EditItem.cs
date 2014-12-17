@@ -5,12 +5,12 @@ using System.Text;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
 
-namespace UmengPackage.Source.Model
+namespace DataEyePackage.Source.Model
 {
     [Serializable]
     public sealed class EditItem : INotifyPropertyChanged
     {
-        //"/UmengPackage;component/Images/icon.png"
+        //"/DataEyePackage;component/Images/icon.png"
         private ItemState state;
         public ItemState State
         {

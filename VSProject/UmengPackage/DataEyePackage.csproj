@@ -8,8 +8,8 @@
     <ProjectGuid>{493DAEDD-9F1F-4747-BBA0-F82A3ECE3865}</ProjectGuid>
     <OutputType>library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UmengPackage</RootNamespace>
-    <AssemblyName>UmengPackage</AssemblyName>
+    <RootNamespace>DataEyePackage</RootNamespace>
+    <AssemblyName>DataEyePackage</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

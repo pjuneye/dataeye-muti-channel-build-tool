@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-using UmengWidget.Common;
+using DataEyeWidget.Common;
 using CommonTools;
 
-namespace UmengWidget.Tools
+namespace DataEyeWidget.Tools
 {
     class GenDebugApk
     {

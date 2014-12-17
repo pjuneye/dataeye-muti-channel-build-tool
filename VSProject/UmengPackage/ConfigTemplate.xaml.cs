@@ -17,11 +17,11 @@ using System.Collections;
 using UIControls;
 using CommonTools;
 
-using UmengPackage.Source.Model;
-using UmengPackage.Source.Common;
+using DataEyePackage.Source.Model;
+using DataEyePackage.Source.Common;
 using System.Windows.Controls.Primitives;
 
-namespace UmengPackage
+namespace DataEyePackage
 {
     /// <summary>
     /// Interaction logic for ChannelTemplate.xaml

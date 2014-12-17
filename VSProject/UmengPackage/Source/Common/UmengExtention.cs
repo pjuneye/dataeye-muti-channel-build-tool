@@ -6,7 +6,7 @@ using System.IO;
 using System.Text.RegularExpressions;
 using System.Collections.ObjectModel;
 
-namespace UmengPackage.Source.Common
+namespace DataEyePackage.Source.Common
 {
     static class UmengExtention
     {

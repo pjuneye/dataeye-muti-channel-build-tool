@@ -1,8 +1,8 @@
 ﻿<Window x:Class="UmengTools.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:mainPage="clr-namespace:UmengPackage;assembly=UmengPackage"
-        xmlns:widgetPage="clr-namespace:UmengWidget;assembly=UmengWidget"
+        xmlns:mainPage="clr-namespace:DataEyePackage;assembly=DataEyePackage"
+        xmlns:widgetPage="clr-namespace:DataEyeWidget;assembly=DataEyeWidget"
         xmlns:shared="clr-namespace:UIControls;assembly=UIControls"
         WindowStyle="None" WindowStartupLocation="CenterScreen" Background="{x:Null}" AllowsTransparency="True"
         MouseLeftButtonDown="Window_MouseLeftButtonDown"
@@ -240,7 +240,7 @@
                         </TabItem.Background>
                         <Grid Background="#242328" Width="816">
                             <Grid x:Name="index_grid2" Margin="0">
-                                    <widgetPage:UmengWidget/>
+                                    <widgetPage:DataEyeWidget/>
                             </Grid>
                         </Grid>
                     </TabItem>

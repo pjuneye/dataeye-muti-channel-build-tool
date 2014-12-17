@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.IO;
 
-using UmengWidget.Common;
+using DataEyeWidget.Common;
 using System.Xml;
 using CommonTools;
-using UmengWidget.Model;
+using DataEyeWidget.Model;
 using System.Windows;
 
-namespace UmengWidget.Tools
+namespace DataEyeWidget.Tools
 {
     class Component
     {

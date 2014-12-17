@@ -6,7 +6,7 @@ using System.IO;
 
 using CommonTools;
 
-namespace UmengWidget.Common
+namespace DataEyeWidget.Common
 {
     public class Apktool
     {

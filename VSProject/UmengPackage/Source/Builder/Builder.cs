@@ -5,12 +5,12 @@ using System.Text;
 using System.IO;
 using System.Xml;
 
-using UmengPackage.Source.Common;
-using UmengPackage.Source.Model;
+using DataEyePackage.Source.Common;
+using DataEyePackage.Source.Model;
 using System.ComponentModel;
 using CommonTools;
 
-namespace UmengPackage.Source
+namespace DataEyePackage.Source
 {
     abstract class Builder
     {

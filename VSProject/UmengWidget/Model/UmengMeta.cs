@@ -5,7 +5,7 @@ using System.Text;
 using System.ComponentModel;
 using System.Windows;
 
-namespace UmengWidget.Model
+namespace DataEyeWidget.Model
 {
     public class UmengMeta : INotifyPropertyChanged
     {

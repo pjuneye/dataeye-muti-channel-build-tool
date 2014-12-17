@@ -9,9 +9,9 @@ using System.ComponentModel;
 using System.Collections.ObjectModel;
 using System.Xml;
 
-using UmengPackage.Source.Common;
+using DataEyePackage.Source.Common;
 
-namespace UmengPackage.Source.Model
+namespace DataEyePackage.Source.Model
 {
     /// <summary>
     /// Description of Configration. used to parse old setting files
