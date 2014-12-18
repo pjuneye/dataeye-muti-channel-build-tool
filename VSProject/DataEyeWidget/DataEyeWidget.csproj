@@ -8,8 +8,8 @@
     <ProjectGuid>{966CD75A-F67F-4BF0-A77C-DE6378A8C5D1}</ProjectGuid>
     <OutputType>library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UmengWidget</RootNamespace>
-    <AssemblyName>UmengWidget</AssemblyName>
+    <RootNamespace>DataEyeWidget</RootNamespace>
+    <AssemblyName>DataEyeWidget</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -53,7 +53,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="UmengWidget.xaml">
+    <Page Include="DataEyeWidget.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -66,8 +66,8 @@
     <Compile Include="Tools\CheckAds.cs" />
     <Compile Include="Tools\GenDebugApk.cs" />
     <Compile Include="Tools\ShowMeta.cs" />
-    <Compile Include="UmengWidget.xaml.cs">
-      <DependentUpon>UmengWidget.xaml</DependentUpon>
+    <Compile Include="DataEyeWidget.xaml.cs">
+      <DependentUpon>DataEyeWidget.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
