@@ -9,14 +9,14 @@ using System.Text.RegularExpressions;
 using System.Windows.Media.Imaging;
 using System.Windows;
 
-using UmengPackage.Source.Common;
+using DataEyePackage.Source.Common;
 using CommonTools;
 using System.Threading;
 using System.Windows.Threading;
 
 
 
-namespace UmengPackage.Source.Model
+namespace DataEyePackage.Source.Model
 {
     public class ApkInfo : INotifyPropertyChanged
     {

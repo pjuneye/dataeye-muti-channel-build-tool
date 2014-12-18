@@ -72,9 +72,8 @@ namespace UmengTools
 
         private void menubutton_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("友盟渠道打包工具V3.0\n"+
-                            "源码地址：\n"+
-                            "https://github.com/umeng");
+            MessageBox.Show("DataEye渠道打包工具V3.0。源码地址：\n"+
+                            "https://github.com/pjuneye/dataeye-muti-channel-build-tool");
         }
     }
 }

@@ -1,11 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmengTools", "UmengTools\UmengTools.csproj", "{7FD6296A-617F-4BC6-9A19-D08F989AF7A2}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEyeTools", "UmengTools\DataEyeTools.csproj", "{7FD6296A-617F-4BC6-9A19-D08F989AF7A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmengPackage", "UmengPackage\UmengPackage.csproj", "{493DAEDD-9F1F-4747-BBA0-F82A3ECE3865}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEyePackage", "UmengPackage\DataEyePackage.csproj", "{493DAEDD-9F1F-4747-BBA0-F82A3ECE3865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmengWidget", "UmengWidget\UmengWidget.csproj", "{966CD75A-F67F-4BF0-A77C-DE6378A8C5D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEyeWidget", "UmengWidget\DataEyeWidget.csproj", "{966CD75A-F67F-4BF0-A77C-DE6378A8C5D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTools", "CommonTools\CommonTools.csproj", "{F2EF8B55-26CD-4F97-9C40-BDAFD3E18D14}"
 EndProject

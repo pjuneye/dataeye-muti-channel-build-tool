@@ -1,4 +1,4 @@
-﻿<Window x:Class="UmengPackage.ConfigTemplate"
+﻿<Window x:Class="DataEyePackage.ConfigTemplate"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
@@ -121,8 +121,8 @@
                         <TextBox x:Name="tb_setting_file" Text="{Binding SettingFile}" Margin="86,0,0,0" Width="200" Height="30" HorizontalAlignment="Left"
                                  Background="LightGray"/>
 
-                        <shared:ImageButton FirstImage="UmengPackage;component/Images/button_normal.png" 
-                                        SecondImage="UmengPackage;component/Images/button_click.png"
+                        <shared:ImageButton FirstImage="DataEyePackage;component/Images/button_normal.png" 
+                                        SecondImage="DataEyePackage;component/Images/button_click.png"
                                         Content="保存" Height="40" HorizontalAlignment="Left" Margin="528,13,0,0" Stretch="Fill" VerticalAlignment="Top" Width="120" Click="save_Click"
                                         FontSize="16" Foreground="White"/>
 

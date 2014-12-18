@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Xml;
 
-namespace UmengPackage.Source.Model
+namespace DataEyePackage.Source.Model
 {
     public class Preferences
     {

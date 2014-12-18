@@ -13,15 +13,15 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.ComponentModel;
 
-using UmengPackage.Source.Model;
-using UmengPackage.Source.Common;
-using UmengPackage.Source;
+using DataEyePackage.Source.Model;
+using DataEyePackage.Source.Common;
+using DataEyePackage.Source;
 using System.Collections.ObjectModel;
 using System.Threading;
 
 using CommonTools;
 
-namespace UmengPackage
+namespace DataEyePackage
 {
     /// <summary>
     /// Interaction logic for UserControl1.xaml

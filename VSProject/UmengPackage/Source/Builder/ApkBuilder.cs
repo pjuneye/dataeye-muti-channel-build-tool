@@ -5,12 +5,12 @@ using System.Text;
 using System.IO;
 using System.ComponentModel;
 
-using UmengPackage.Source.Common;
-using UmengPackage.Source.Model;
+using DataEyePackage.Source.Common;
+using DataEyePackage.Source.Model;
 using CommonTools;
 using System.Xml;
 
-namespace UmengPackage.Source
+namespace DataEyePackage.Source
 {
     /// <summary>
     /// dir/temp/decode-folder

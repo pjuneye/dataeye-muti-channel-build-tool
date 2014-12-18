@@ -15,11 +15,11 @@ using System.Xml;
 using System.Linq;
 using System.ComponentModel;
 
-using UmengPackage.Source.Common;
-using UmengPackage.Source.Model;
+using DataEyePackage.Source.Common;
+using DataEyePackage.Source.Model;
 using CommonTools;
 
-namespace UmengPackage.Source
+namespace DataEyePackage.Source
 {
 	/// <summary>
 	/// All the build work is here

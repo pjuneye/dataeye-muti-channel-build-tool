@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace UmengPackage.Source.Model
+namespace DataEyePackage.Source.Model
 {
     class ObservableCollection
     {
