@@ -16,7 +16,7 @@ using CommonTools;
 using System.Net;
 using System.IO;
 
-namespace UmengTools
+namespace DataEyeTools
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

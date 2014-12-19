@@ -12,10 +12,10 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-using UmengWidget.Tools;
-using UmengWidget.Model;
+using DataEyeWidget.Tools;
+using DataEyeWidget.Model;
 
-namespace UmengWidget
+namespace DataEyeWidget
 {
     /// <summary>
     /// Interaction logic for AdsDetails.xaml

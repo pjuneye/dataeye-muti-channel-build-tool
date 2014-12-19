@@ -15,19 +15,19 @@ using System.Windows.Shapes;
 using UIControls;
 using CommonTools;
 using System.Threading;
-using UmengWidget.Tools;
-using UmengWidget.Model;
+using DataEyeWidget.Tools;
+using DataEyeWidget.Model;
 
-namespace UmengWidget
+namespace DataEyeWidget
 {
     /// <summary>
     /// Interaction logic for UserControl1.xaml
     /// </summary>
-    public partial class UmengWidget : UserControl
+    public partial class DataEyeWidget : UserControl
     {
         private string apk;
 
-        public UmengWidget()
+        public DataEyeWidget()
         {
             InitializeComponent();
         }
